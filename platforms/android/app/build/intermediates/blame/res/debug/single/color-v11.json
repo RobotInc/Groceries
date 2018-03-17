@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/mohan/nativescripts/Groceries/platforms/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/mohan/.android/build-cache/71372256be0c96e840adf17f3b4ac5421533b821/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/mohan/nativescripts/Groceries/platforms/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/mohan/.android/build-cache/71372256be0c96e840adf17f3b4ac5421533b821/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

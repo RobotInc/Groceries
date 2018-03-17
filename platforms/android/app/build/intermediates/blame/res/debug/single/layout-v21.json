@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/mohan/nativescripts/Groceries/platforms/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/mohan/.android/build-cache/71372256be0c96e840adf17f3b4ac5421533b821/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/mohan/nativescripts/Groceries/platforms/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/mohan/.android/build-cache/71372256be0c96e840adf17f3b4ac5421533b821/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/mohan/nativescripts/Groceries/platforms/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/mohan/.android/build-cache/71372256be0c96e840adf17f3b4ac5421533b821/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/mohan/nativescripts/Groceries/platforms/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/mohan/.android/build-cache/71372256be0c96e840adf17f3b4ac5421533b821/output/res/layout-v21/notification_action_tombstone.xml"
+    }
+]

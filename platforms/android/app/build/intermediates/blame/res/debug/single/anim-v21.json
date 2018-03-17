@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/mohan/nativescripts/Groceries/platforms/android/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/home/mohan/.android/build-cache/d32fcd906ae62bad0df2d14e1bab2f2c4e73ea8d/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/home/mohan/nativescripts/Groceries/platforms/android/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/home/mohan/.android/build-cache/d32fcd906ae62bad0df2d14e1bab2f2c4e73ea8d/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    }
+]

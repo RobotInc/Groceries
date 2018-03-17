@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/mohan/nativescripts/Groceries/platforms/android/app/build/intermediates/res/merged/debug/drawable-mdpi/logo.png",
+        "source": "/home/mohan/nativescripts/Groceries/platforms/android/app/src/main/res/drawable-mdpi/logo.png"
+    },
+    {
+        "merged": "/home/mohan/nativescripts/Groceries/platforms/android/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_menu_delete.png",
+        "source": "/home/mohan/nativescripts/Groceries/platforms/android/app/src/main/res/drawable-mdpi/ic_menu_delete.png"
+    },
+    {
+        "merged": "/home/mohan/nativescripts/Groceries/platforms/android/app/build/intermediates/res/merged/debug/drawable-mdpi/icon.png",
+        "source": "/home/mohan/nativescripts/Groceries/platforms/android/app/src/main/res/drawable-mdpi/icon.png"
+    }
+]
